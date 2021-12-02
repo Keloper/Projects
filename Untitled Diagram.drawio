@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-02T07:21:41.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="vAA-V2tzLJGxNu7IMo1g" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-02T08:16:38.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="i2z2P7lzclz87n3qfJ2w" version="15.8.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2062" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
@@ -228,6 +228,27 @@
         </mxCell>
         <mxCell id="AXJBygTEuolutEZmb6Ak-1760" value="Многофакторный анализ ANOVA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AXJBygTEuolutEZmb6Ak-1761" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="845" y="815" as="sourcePoint" />
+            <mxPoint x="845" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AXJBygTEuolutEZmb6Ak-1762" value="Увеличение вероятности ошибки 1 рода&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="950" y="867.5" width="140" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AXJBygTEuolutEZmb6Ak-1763" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="845" y="900" as="sourcePoint" />
+            <mxPoint x="950" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AXJBygTEuolutEZmb6Ak-1764" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1015" y="867.5" as="sourcePoint" />
+            <mxPoint x="1065" y="817.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
