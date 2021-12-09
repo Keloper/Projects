@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T17:34:14.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="15.9.4" etag="98t6AdgsSswImGHWVYAy" type="github"><diagram id="RFpOyVFqVvTHS2BQ6yxA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-09T18:05:41.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="S8miOydaF_mByuDdbO9J" version="15.9.4" type="github">
+  <diagram id="RFpOyVFqVvTHS2BQ6yxA" name="Страница 1">
+    <mxGraphModel dx="2062" dy="1075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dqNo_ySl7vDwjdK-4gUj-1" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Линейная регрессия&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dqNo_ySl7vDwjdK-4gUj-3" value="Случайный лес" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dqNo_ySl7vDwjdK-4gUj-4" value="Ближайший сосед" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dqNo_ySl7vDwjdK-4gUj-5" value="Логистическая регрессия" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dqNo_ySl7vDwjdK-4gUj-6" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Способы проверки модели&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1140" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dqNo_ySl7vDwjdK-4gUj-7" value="Типы выборок&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dqNo_ySl7vDwjdK-4gUj-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1760" y="80" as="sourcePoint" />
+            <mxPoint x="1790" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1770" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dqNo_ySl7vDwjdK-4gUj-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1710" y="80" as="sourcePoint" />
+            <mxPoint x="1720" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dqNo_ySl7vDwjdK-4gUj-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1650" y="80" as="sourcePoint" />
+            <mxPoint x="1590" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dqNo_ySl7vDwjdK-4gUj-12" value="Валидационная" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="110" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dqNo_ySl7vDwjdK-4gUj-13" value="Обучающая&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dqNo_ySl7vDwjdK-4gUj-14" value="Тестовая" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
